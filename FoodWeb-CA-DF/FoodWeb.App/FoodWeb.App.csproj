@@ -4,4 +4,22 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Template\FoodWeb\assets\.idea\misc.xml" />
+    <Content Include="Template\FoodWeb\assets\.idea\modules.xml" />
+    <Content Include="Template\FoodWeb\assets\.idea\workspace.xml" />
+    <Content Include="Template\FoodWeb\assets\assets\.idea\misc.xml" />
+    <Content Include="Template\FoodWeb\assets\assets\.idea\modules.xml" />
+    <Content Include="Template\FoodWeb\assets\assets\.idea\workspace.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Template\FoodWeb\assets\.idea\assets.iml" />
+    <None Include="Template\FoodWeb\assets\assets\.idea\assets.iml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Template\FoodWeb\assets\assets\.idea\inspectionProfiles\" />
+  </ItemGroup>
+
 </Project>
